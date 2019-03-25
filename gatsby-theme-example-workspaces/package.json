@@ -1,5 +1,6 @@
 {
   "name": "gatsby-theme-example-workspaces",
+  "description": "A example Gatsby theme that uses Yarn workspaces for development",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Brent Jackson <jxnblk@gmail.com>",
