@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-theme-example-workspaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Brent Jackson <jxnblk@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.2.10",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.2.10",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "dependencies": {
+    "gatsby-plugin-compile-es6-packages": "^1.0.6"
+  }
+}
