@@ -16,6 +16,7 @@
     "react-dom": "^16.8.5"
   },
   "dependencies": {
-    "gatsby-plugin-compile-es6-packages": "^1.0.6"
+    "gatsby-plugin-compile-es6-packages": "^1.0.6",
+    "gatsby-plugin-page-creator": "^2.0.11"
   }
 }
